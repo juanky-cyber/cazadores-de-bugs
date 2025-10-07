@@ -28,13 +28,13 @@ Esta organización permite un desarrollo ordenado, escalable y didáctico, ideal
 A continuación se muestran ejemplos de las principales pantallas de la aplicación:
 
 ### Pantalla Principal
-![image2](image2)
+![image2](images/welcome_select.png)
 
 ### Listado de Productos
-![image1](image1)
+![image1](images/listado.png)
 
 ### Formulario para Añadir Producto
-![image3](image3)
+![image3](images/add_producto.png)
 
 ---
 
