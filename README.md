@@ -30,34 +30,6 @@ El objetivo es aprender a identificar errores reales en código y adquirir exper
 
 ---
 
-## 📚 Ejemplo de flujo
-
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/cazadores-de-bugs.git
-   cd cazadores-de-bugs
-   ```
-
-2. **Instala y configura según el README específico de cada proyecto**
-
-3. **Ejecuta el proyecto y navega por la interfaz**
-
-4. **Documenta los errores detectados**
-   - Ejemplo:
-     ```
-     🐞 Bug: El botón "Guardar" no funciona en el formulario de productos.
-     Reproducción: Acceder a /producto/nuevo, rellenar los campos y pulsar "Guardar".
-     Causa: Falta el método en el controlador para procesar el POST.
-     ```
-
-5. **Corrige el fallo y haz commit**
-   ```bash
-   git add .
-   git commit -m "Fix: botón Guardar funcional en productos"
-   ```
-
----
-
 ## 🎯 Objetivo
 
 - Aprender a analizar código heredado o ajeno.
