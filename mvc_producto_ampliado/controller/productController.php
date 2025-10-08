@@ -36,7 +36,7 @@ class ProductController
         $product = (new Product())->setName($_POST['name'])->setShort_name($_POST['shortName'])
             ->setPvp($_POST['pvp']);
 
-        $result = (new ProductRepository())->addProduct(null);
+        $result = (new ProductRepository())->addProduct($product);
         
         $message = '';
         if($result){

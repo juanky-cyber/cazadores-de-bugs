@@ -12,7 +12,7 @@
             
             <div class="mb-3">
                 <label for="shortName">Nombre Corto:</label>
-                <input id="shortName" name="name" type="text" class="form-control">    
+                <input id="shortName" name="shortName" type="text" class="form-control">    
             </div>
 
             <div class="mb-3">
